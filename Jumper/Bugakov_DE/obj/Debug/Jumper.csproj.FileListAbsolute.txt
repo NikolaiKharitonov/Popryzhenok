@@ -1,0 +1,56 @@
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\bin\Debug\Bugakov_DE.exe.config
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\bin\Debug\Bugakov_DE.exe
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\bin\Debug\Bugakov_DE.pdb
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\bin\Debug\EntityFramework.dll
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\bin\Debug\EntityFramework.xml
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Jumper.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Page1.g.cs
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Page2.g.cs
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Window1.g.cs
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\App.g.cs
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Bugakov_DE_Content.g.cs
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Bugakov_DE_MarkupCompile.cache
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Bugakov_DE_MarkupCompile.lref
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\MainWindow.baml
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Page1.baml
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Page2.baml
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Window1.baml
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Bugakov_DE.g.resources
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Bugakov_DE.Properties.Resources.resources
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Jumper.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Jumper.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Jumper.csproj.CopyComplete
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Bugakov_DE.exe
+C:\Users\Home\Desktop\Задание попрыженок\Bugakov_DE\Bugakov_DE\Bugakov_DE\obj\Debug\Bugakov_DE.pdb
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\bin\Debug\Bugakov_DE.exe.config
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\bin\Debug\Bugakov_DE.exe
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\bin\Debug\Bugakov_DE.pdb
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\bin\Debug\EntityFramework.dll
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\bin\Debug\EntityFramework.xml
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Jumper.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Page1.g.cs
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Page2.g.cs
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Window1.g.cs
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\App.g.cs
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Bugakov_DE_Content.g.cs
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Bugakov_DE_MarkupCompile.cache
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Bugakov_DE_MarkupCompile.lref
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\MainWindow.baml
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Page1.baml
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Page2.baml
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Window1.baml
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Bugakov_DE.g.resources
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Bugakov_DE.Properties.Resources.resources
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Jumper.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Jumper.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Jumper.csproj.CopyComplete
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Bugakov_DE.exe
+C:\Users\Home\Desktop\Bugakov_DEE\Jumper\Jumper\Bugakov_DE\obj\Debug\Bugakov_DE.pdb
